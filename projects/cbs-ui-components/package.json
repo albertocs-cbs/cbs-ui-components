@@ -1,6 +1,12 @@
 {
   "name": "cbs-ui-components",
   "version": "0.0.1",
+  "author": "Albertocs-cbs",
+  "license": "MIT",
+  "repository": {
+   "type": "git",
+   "url": "https://github.com/albertocs-cbs/cbs-ui-components.git"
+  },
   "peerDependencies": {
     "@angular/common": "^13.0.0",
     "@angular/core": "^13.0.0"
